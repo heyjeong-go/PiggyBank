@@ -27,3 +27,7 @@ class MoneyCopier extends Thread{
         this.piggy = piggy;
     }
 }
+
+class Test{
+    //test class
+}
